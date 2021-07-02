@@ -1,0 +1,230 @@
+body{
+    background: #498CEC;
+}
+#block{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -7%;
+    bottom: 0%;
+
+    background: #498CEC;
+    box-sizing: border-box;
+}
+.package-name{
+    position: absolute;
+    left: 7%;
+    right: 66.93%;
+    top: 4%;
+    bottom: 36.84%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 60px;
+    
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.citychange-text{
+    position: absolute;
+    left: 7.5%;
+    top: 15%;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+
+.price{
+    position: absolute;
+    right: 32%;
+    top: 7%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 180px;
+    line-height: 216px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.describtion{
+    position: absolute;
+    height: 48px;
+    left: 101px;
+    right: 125px;
+    top: calc(50% - 48px/2 + 86px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.wind{
+    position: absolute;
+    height: 22px;
+    left: 7.39%;
+    right: 88.95%;
+    top: calc(50% - 22px/2 + 339px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+.wind-var{
+    position: absolute;
+    height: 30px;
+    left: 7.39%;
+    right: 79.06%;
+    top: calc(50% - 30px/2 + 375px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+.pressure{
+    position: absolute;
+    height: 22px;
+    left: 30.23%;
+    right: 63.69%;
+    top: calc(50% - 22px/2 + 339px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+.pressure-var{
+    position: absolute;
+    height: 30px;
+    left: 30.23%;
+    right: 58.13%;
+    top: calc(50% - 30px/2 + 375px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.vetness{
+    position: absolute;
+    height: 22px;
+    left: 53.51%;
+    right: 39.75%;
+    top: calc(50% - 22px/2 + 339px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+.vetness-var{
+    position: absolute;
+    height: 30px;
+    left: 53.51%;
+    right: 42.83%;
+    top: calc(50% - 30px/2 + 375px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.probability{
+    position: absolute;
+    height: 22px;
+    left: 74.3%;
+    right: 13.54%;
+    top: calc(50% - 22px/2 + 339px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+.probability-var{
+    position: absolute;
+    height: 30px;
+    left: 74.3%;
+    right: 22.04%;
+    top: calc(50% - 30px/2 + 375px);
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.pic{
+    position: absolute;
+    left: 37%;
+    top: 40%;
+
+}
